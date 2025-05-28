@@ -219,7 +219,7 @@
     close = true,
     description = 'A receipt for your BurgerShot order',
     client = {
-        export = 'DD-BurgerShot.useInvoice'
+        export = 'DD-BurgerShot_OX.useInvoice'
     }
 },
 ```
