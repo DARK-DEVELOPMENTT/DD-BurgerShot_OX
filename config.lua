@@ -1,7 +1,7 @@
 Config = {}
 
 -- Debug Mode
-Config.Debug = true -- Set to false in production
+Config.Debug = false -- Set to false when not debugging
 
 -- Job Settings
 Config.JobName = 'burgershot'
