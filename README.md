@@ -1,6 +1,7 @@
 # BurgerShot Script
 
-A FiveM script for BurgerShot restaurant using ox_lib, ox_inventory, and ox_target.
+- A FiveM script for BurgerShot restaurant using ox_lib, ox_inventory, and ox_target.
+- I Will Add qb-inventory & qb-target in future.
 
 ## Features
 - Employee duty system
@@ -12,9 +13,10 @@ A FiveM script for BurgerShot restaurant using ox_lib, ox_inventory, and ox_targ
 - Stash/fridge system
 
 ## Dependencies
-- ox_lib
-- ox_inventory
-- ox_target
+- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_inventory](https://github.com/overextended/ox_inventory)
+- [ox_target](https://github.com/overextended/ox_target)
+- [MLO](https://www.gta5-mods.com/maps/mlo-burgershot-2023-add-on-sp-fivem)
 
 ## Installation
 
@@ -221,10 +223,10 @@ A FiveM script for BurgerShot restaurant using ox_lib, ox_inventory, and ox_targ
     }
 },
 ```
-
-2. Copy the script to your resources folder
-3. Add `ensure DD-BurgerShot` to your server.cfg
-4. Restart your server
+2. Add the following items images to your `ox_inventory/web/images`:
+3. Copy the script to your resources folder
+4. Add `ensure DD-BurgerShot` to your server.cfg
+5. Restart your server
 
 ## Usage
 
@@ -236,7 +238,7 @@ A FiveM script for BurgerShot restaurant using ox_lib, ox_inventory, and ox_targ
 5. Receive orders through invoices
 
 ### For Customers
-1. Approach the NPC or order point
+1. Approach order point
 2. Select desired items from the menu
 3. Choose quantities
 4. Receive an invoice for the order
@@ -250,7 +252,4 @@ All configuration options can be found in `config.lua`:
 - And more
 
 ## Support
-For support, please create an issue on the GitHub repository or contact the author.
-
-## License
-This project is licensed under the MIT License. 
+For support, please Join The Discord [Discord](https://discord.gg/c3gwcDt6Vh) Server .
