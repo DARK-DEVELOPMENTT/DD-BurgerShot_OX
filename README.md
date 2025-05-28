@@ -252,4 +252,4 @@ All configuration options can be found in `config.lua`:
 - And more
 
 ## Support
-For support, please Join The Discord [Discord](https://discord.gg/c3gwcDt6Vh) Server .
+For support, please Join The [Discord](https://discord.gg/c3gwcDt6Vh) Server .
