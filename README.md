@@ -228,7 +228,6 @@
 4. Add `ensure DD-BurgerShot` to your server.cfg
 5. Restart your server
 
-## Usage
 
 ### For Employees
 1. Go on duty at the duty point
